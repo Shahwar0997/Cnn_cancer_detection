@@ -37,21 +37,6 @@
 - scikit-learn
 
 
-
----
-
-## Notes
-
-- Images are not included in the repo. Download them directly from Kaggle.
-- Training on Kaggle notebooks is recommended to avoid local storage overhead.
-- For GPU training, you can optionally use Colab + Google Cloud Storage.
-
----
-
-## Submission
-
-Model predictions are saved to `submission.csv` in the required Kaggle format.
-
 ---
 
 ## License
